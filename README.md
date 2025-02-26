@@ -24,7 +24,7 @@ He utilizado como apoyo el aporte que ha sido dado en el curso para un mejor ent
 - **Sorteo aleatorio:** Se activa cuando hay al menos 2 amigos en la lista.
 - **Eliminar amigos:** Puedes quitar amigos de la lista de forma individual.
 - **Reiniciar lista:** Borra todos los nombres y reinicia el sorteo.
-- 
+  
 
 ## 🎁 Contribuciones
 
