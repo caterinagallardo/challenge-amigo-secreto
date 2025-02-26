@@ -1,4 +1,4 @@
-#👌 Amigo Secreto
+## 👌 Amigo Secreto
 
 Este es un proyecto interactivo que permite a los usuarios agregar amigos a una lista y realizar un **sorteo aleatorio** para determinar quién será el "amigo secreto". ¡Este juego es ideal para dinámicas de intercambio de regalos!
 He utilizado como apoyo el aporte que ha sido dado en el curso para un mejor entendimiento para mi misma.
