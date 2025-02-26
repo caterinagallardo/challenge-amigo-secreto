@@ -4,7 +4,7 @@ Este es un proyecto interactivo que permite a los usuarios agregar amigos a una 
 He utilizado como apoyo el aporte que ha sido dado en el curso para un mejor entendimiento para mi misma.
 
 
-### 😎 [Ver en Vivo](https://github.com/caterinagallardo/challenge-amigo-secreto)
+### 😎 [Ver en Vivo](https://github.com/caterinagallardo/challenge-amigo-secreto/index.html)
 
 ## 🤖 Tecnologías utilizadas
 
